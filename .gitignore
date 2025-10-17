@@ -1,0 +1,4 @@
+# SpectraLock development artifacts
+.venv/
+__pycache__/
+*.pyc
